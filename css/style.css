@@ -1,0 +1,141 @@
+/* ################# TOP-CONTAINER ####################
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Bitter", serif;
+}
+h1 {
+  margin: 0;
+  font-family: "Architects Daughter", cursive;
+  font-size: 3rem;
+  color: #66bfbf;
+}
+h2 {
+  margin: 0;
+  font-size: 2rem;
+  font-weight: normal;
+  color: #66bfbf;
+}
+.pro {
+  text-decoration: underline;
+}
+.top-container {
+  background-color: #e4f9f5;
+  padding-top: 50px;
+  position: relative;
+  margin-bottom: 50px;
+}
+.top-cloud {
+  width: 150px;
+  height: 100px;
+  position: relative;
+  left: 150px;
+}
+.bottom-cloud {
+  width: 150px;
+  height: 100px;
+  position: absolute;
+  left: 400px;
+}
+.mountain {
+  width: 400px;
+  height: 300px;
+}
+
+/* ################# MIDDLE-CONTAINER ################# */
+
+/* h3,
+a {
+  color: #11999e;
+}
+a{
+  font-family: "Bitter", serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6;
+}
+.profile-pic,
+.code-logo,
+.coffee-logo {
+  border-radius: 100%;
+}
+.profile-pic {
+  margin-bottom: 20px;
+}
+.profile {
+  width: 50%;
+  margin: auto;
+}
+.skill-row {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  line-height: 2;
+}
+.code-logo {
+  width: 25%;
+  float: left;
+  margin-right: 50px;
+}
+.coffee-logo {
+  width: 25%;
+  float: right;
+  margin-left: 50px;
+}
+.btn {
+  background: #3d94f6;
+  background-image: -webkit-linear-gradient(top, #3d94f6, #1e62d0);
+  background-image: -moz-linear-gradient(top, #3d94f6, #1e62d0);
+  background-image: -moz-linear-gradient(top, #3d94f6, #1e62d0);
+  background-image: -ms-linear-gradient(top, #3d94f6, #1e62d0);
+  background-image: -o-linear-gradient(top, #3d94f6, #1e62d0);
+  background-image: linear-gradient(to bottom, #3d94f6, #1e62d0);
+  border-radius: 10px;
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 10px;
+  text-shadow: 0px 0px 57px #000000;
+  border: solid #337fed 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+
+}
+
+.btn:hover {
+  background: #3d93e5;
+  background-image: -webkit-linear-gradient(top, #3d94f0, #1e62d9);
+  background-image: -moz-linear-gradient(top, #3d94f0, #1e62d9);
+  background-image: -moz-linear-gradient(top, #3d94f0, #1e62d9);
+  background-image: -ms-linear-gradient(top, #3d94f0, #1e62d9);
+  background-image: -o-linear-gradient(top, #3d94f0, #1e62d9);
+  background-image: linear-gradient(to bottom, #3d94f0, #1e62d9);
+  border-radius: 10px;
+  text-decoration: blueviolet;
+  /*    border: solid #337fed 1px;
+     background: #1e62d0;
+     background-image: -webkit-linear-gradient(top, #1e62d0, #86b3e5);
+     background-image: -moz-linear-gradient(top, #1e62d0, #86b3e5);
+     background-image: -ms-linear-gradient(top, #1e62d0, #86b3e5);
+     background-image: -o-linear-gradient(top, #1e62d0, #86b3e5);
+     background-image: linear-gradient(to bottom, #1e62d0, #86b3e5);
+     -webkit-border-radius: 10px;
+     -moz-border-radius: 10px;
+     border-radius: 10px;
+     text-decoration: none; */
+}
+.bottom-container{
+  background-color: #66bfbf;
+  margin-top: 50px;
+  margin-bottom: 0;
+  padding: 50px;
+}
+.copyright{
+  color: #eaf6f6;
+  font-size: 0.75rem;
+} */ */
